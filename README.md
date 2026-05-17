@@ -1,5 +1,7 @@
 # 🌟 refrag - Get Better Retrieval with Ease
 
+[![SafeSkill 90/100](https://img.shields.io/badge/SafeSkill-90%2F100_Verified%20Safe-brightgreen)](https://safeskill.dev/scan/dimanandez-refrag)
+
 ## 📋 Overview
 REFRAG uses advanced LLM-powered methods to create better representations for retrieval-augmented generation (RAG). With refrag, you can improve precision, reduce context size, and maintain fast performance.
 
